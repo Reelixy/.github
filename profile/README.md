@@ -1,5 +1,3 @@
-# Reelixy
-
 **🚀 Ukrainian IT company specializing in business process automation and AI solutions for global markets**
 
 ---
